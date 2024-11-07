@@ -7,7 +7,7 @@ function randomNumberInRange(min, max) {
         throw new RangeError('Min should be less than or equal to max.');
     }
 
-    return Math.floor(Math.random() * (max - min));
+    return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
 module.exports = randomNumberInRange;
