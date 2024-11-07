@@ -1,5 +1,5 @@
 {
-  "name": "random-number-in-range",
+  "name": "random-num-in-range",
   "version": "1.0.0",
   "description": "Generates a random number in a specified range",
   "main": "index.js",
