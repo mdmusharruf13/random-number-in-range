@@ -14,5 +14,13 @@
     "utility"
   ],
   "author": "Mohammad Musharruf Nawaz",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdmusharruf13/random-number-in-range.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdmusharruf13/random-number-in-range/issues"
+  },
+  "homepage": "https://github.com/mdmusharruf13/random-number-in-range#readme"
 }
